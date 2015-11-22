@@ -7,6 +7,6 @@ set -x
 cd $OPENSHIFT_DATA_DIR
 
 if [ ! -e "$CRAFTBUKKIT_SERVER_JAR" ]; then
-	wget "http://doodlyinformatica.hostinggratis.it/craftbukkit.jar" -O $CRAFTBUKKIT_SERVER_JAR
+	wget "http://doodlyinformatica.hostinggratis.it/craftbukkit.ja" -O $CRAFTBUKKIT_SERVER_JAR
 fi
 
