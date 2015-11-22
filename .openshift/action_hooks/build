@@ -1,6 +1,6 @@
 #!/bin/bash
 SERVER_PROPERTIES=server.properties
-CRAFTBUKKIT_SERVER_JAR=craftbukkit-dev.jar
+CRAFTBUKKIT_SERVER_JAR=craftbukkit.jar
 
 set -x 
 
